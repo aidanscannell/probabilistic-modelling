@@ -1,0 +1,4 @@
+/.idea
+.DS_Store
+notebooks/.ipynb
+notebooks/.ipynb_checkpoints/
